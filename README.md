@@ -4,7 +4,7 @@ Fill up / Populate Dropdown/Select box with relational data table on Ajax,Javasc
 
 Pass id of previous  selected box id with the API and query the the relational table and get data set.Get back that Encoded JSON data and decode this data by parsing and fill up the select box/ Dropdown box
 
-Youtube Tutorial : https://youtu.be/hRoyaSNHO1U
+Youtube Tutorial : https://youtu.be/guP5hn6MoKU
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
