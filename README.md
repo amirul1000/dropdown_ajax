@@ -2,8 +2,7 @@
 
 Fill up / Populate Dropdown/Select box with relational data table on Ajax,Javascript & PHP API 
 
-Pass id of previous select box selected id with the API and query the the relational table and get data set.Get back that Encoded JSON data and decode this data by parsing and fill up the select box/ Dropdown box
-
+Pass id of previous  selected box id with the API and query the the relational table and get data set.Get back that Encoded JSON data and decode this data by parsing and fill up the select box/ Dropdown box
 
 Youtube Tutorial : https://youtu.be/hRoyaSNHO1U
 
